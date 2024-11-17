@@ -1,0 +1,31 @@
+#container {
+  text-align: center;
+  margin: 20px;
+}
+
+.input-container {
+  margin: 15px 0;
+}
+
+
+button {
+  padding: 15px 30px; 
+  background-color: #007bff; 
+  color: white; 
+  border: 1px solid #007bff;
+  border-radius: 0.25rem;
+  cursor: pointer; 
+  transition: background-color 0.3s ease, border-color 0.3s ease; 
+}
+
+
+button:hover {
+  background-color: #0056b3; 
+  border-color: #0056b3; 
+}
+
+
+.result {
+  margin-top: 20px;
+  font-size: 1.2em;
+}
